@@ -1,0 +1,2 @@
+# entradaValida
+ok
